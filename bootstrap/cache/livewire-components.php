@@ -1,0 +1,17 @@
+<?php return array (
+  'agregarcheque' => 'App\\Http\\Livewire\\Agregarcheque',
+  'ajuste' => 'App\\Http\\Livewire\\Ajuste',
+  'cheque' => 'App\\Http\\Livewire\\Cheque',
+  'cheques-tranferencias' => 'App\\Http\\Livewire\\ChequesTranferencias',
+  'chequesytransferencias' => 'App\\Http\\Livewire\\Chequesytransferencias',
+  'comentarios' => 'App\\Http\\Livewire\\Comentarios',
+  'delete-relacionados' => 'App\\Http\\Livewire\\DeleteRelacionados',
+  'demo' => 'App\\Http\\Livewire\\Demo',
+  'editar' => 'App\\Http\\Livewire\\Editar',
+  'notification-secction' => 'App\\Http\\Livewire\\NotificationSecction',
+  'pdfcheque' => 'App\\Http\\Livewire\\Pdfcheque',
+  'porpagar' => 'App\\Http\\Livewire\\Porpagar',
+  'relacionados' => 'App\\Http\\Livewire\\Relacionados',
+  'tablacheques' => 'App\\Http\\Livewire\\Tablacheques',
+  'uploadrelacionados' => 'App\\Http\\Livewire\\Uploadrelacionados',
+);
